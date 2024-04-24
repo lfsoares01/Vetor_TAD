@@ -1,0 +1,1 @@
+Algoritmo utilizando vetores na estrutura TAD.
