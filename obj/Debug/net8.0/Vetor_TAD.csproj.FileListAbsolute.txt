@@ -1,0 +1,14 @@
+d:\ADS\ADS - SENAC\Estrutura de Dados\Exercício\Vetor_TAD\bin\Debug\net8.0\Vetor_TAD.exe
+d:\ADS\ADS - SENAC\Estrutura de Dados\Exercício\Vetor_TAD\bin\Debug\net8.0\Vetor_TAD.deps.json
+d:\ADS\ADS - SENAC\Estrutura de Dados\Exercício\Vetor_TAD\bin\Debug\net8.0\Vetor_TAD.runtimeconfig.json
+d:\ADS\ADS - SENAC\Estrutura de Dados\Exercício\Vetor_TAD\bin\Debug\net8.0\Vetor_TAD.dll
+d:\ADS\ADS - SENAC\Estrutura de Dados\Exercício\Vetor_TAD\bin\Debug\net8.0\Vetor_TAD.pdb
+d:\ADS\ADS - SENAC\Estrutura de Dados\Exercício\Vetor_TAD\obj\Debug\net8.0\Vetor_TAD.GeneratedMSBuildEditorConfig.editorconfig
+d:\ADS\ADS - SENAC\Estrutura de Dados\Exercício\Vetor_TAD\obj\Debug\net8.0\Vetor_TAD.AssemblyInfoInputs.cache
+d:\ADS\ADS - SENAC\Estrutura de Dados\Exercício\Vetor_TAD\obj\Debug\net8.0\Vetor_TAD.AssemblyInfo.cs
+d:\ADS\ADS - SENAC\Estrutura de Dados\Exercício\Vetor_TAD\obj\Debug\net8.0\Vetor_TAD.csproj.CoreCompileInputs.cache
+d:\ADS\ADS - SENAC\Estrutura de Dados\Exercício\Vetor_TAD\obj\Debug\net8.0\Vetor_TAD.dll
+d:\ADS\ADS - SENAC\Estrutura de Dados\Exercício\Vetor_TAD\obj\Debug\net8.0\refint\Vetor_TAD.dll
+d:\ADS\ADS - SENAC\Estrutura de Dados\Exercício\Vetor_TAD\obj\Debug\net8.0\Vetor_TAD.pdb
+d:\ADS\ADS - SENAC\Estrutura de Dados\Exercício\Vetor_TAD\obj\Debug\net8.0\Vetor_TAD.genruntimeconfig.cache
+d:\ADS\ADS - SENAC\Estrutura de Dados\Exercício\Vetor_TAD\obj\Debug\net8.0\ref\Vetor_TAD.dll
