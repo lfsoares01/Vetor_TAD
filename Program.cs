@@ -7,5 +7,8 @@ class Program
         Vetor meuVetor = new Vetor(5);
         meuVetor.PreencherVetor();
         meuVetor.ExibirVetor();
+        Vetor meuVetor2 = new Vetor (10);
+        meuVetor2.PreencherVetor();
+        meuVetor2.ExibirVetor();
     }
 }
